@@ -1,0 +1,2 @@
+,model_location_string,GAMA_location_string,experiment_name,stopping_condition
+0,/home/daan/Documents/GitHub/GAMA_MPI4Py/predatorPrey/predatorPrey.gaml,/home/daan/GAMA,prey_predatorExp,cycle=1000
