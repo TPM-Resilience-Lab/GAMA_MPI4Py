@@ -26,7 +26,7 @@ _To view plots in the Toturial Notebook_<br/>
 The functionality can be roughly subdivided into three parts:<br/>
 1. Creating files specifying the experiment: model generalities, model input parametres, model output parametres. 
 
-Subsequently, the following functionality can be initialised with a terminal command: 
+Subsequently, the following functionality can be initialised with a terminal command: <br/>
 2. Breaking down the experiment specification allowing for [distribution over multiple threads](https://en.wikipedia.org/wiki/Parallel_computing)<br/>
 3. Per thread, the model is executed and results are saved temporarily<br/>
 4. For every thread, the results are collected and saved in one output file<br/>
