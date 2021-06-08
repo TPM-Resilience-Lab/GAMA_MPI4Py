@@ -11,9 +11,9 @@ The repository provides in an Anaconda environment save file (environment.yml). 
 _To view the Toturial and Benchmark Notebooks_
 1. [Jupyter lab](https://jupyterlab.readthedocs.io/en/latest/)
 
-_For necessary functionality_<br / >
-2. [Pandas](https://pandas.pydata.org/docs/) : Reading an writing Datafiles <br / >
-3. [Numpy](https://numpy.org/doc/stable/) : Manipulating data arrays<br / >
+_For necessary functionality_
+2. [Pandas](https://pandas.pydata.org/docs/) : Reading an writing Datafiles 
+3. [Numpy](https://numpy.org/doc/stable/) : Manipulating data arrays
 4. [MPI for Python](https://mpi4py.readthedocs.io/en/stable/) : Parallelisation of tasks<br / >
 5. [PyArrow](https://arrow.apache.org/docs/python/) : Supporting software dealing with the Feather file system<br / >
 6. [tempfile](https://docs.python.org/3/library/tempfile.html) : Creating temporary file locations (built-in Python functionality)
