@@ -22,7 +22,8 @@ _To view plots in the Toturial Notebook_<br/>
 7. [MatPlotLib](https://matplotlib.org/stable/users/index.html)
 
 ## Importing Anaconda environment
-The necessary packages Open an Anaconda prompt t
+The necessary packages can be installed by importing an [Anaconda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). Simply, open a Terminal window in a directory in which this repository has been downloaded and type: 
+`$ conda env create -f environment.yml`
 
 ## Functionality
 
