@@ -12,24 +12,24 @@ _To view the Toturial and Benchmark Notebooks_<br/>
 1. [Jupyter lab](https://jupyterlab.readthedocs.io/en/latest/)
 
 _For necessary functionality_<br/>
-2. [Pandas](https://pandas.pydata.org/docs/) : Reading an writing Datafiles 
-3. [Numpy](https://numpy.org/doc/stable/) : Manipulating data arrays
-4. [MPI for Python](https://mpi4py.readthedocs.io/en/stable/) : Parallelisation of tasks<br / >
-5. [PyArrow](https://arrow.apache.org/docs/python/) : Supporting software dealing with the Feather file system<br / >
+2. [Pandas](https://pandas.pydata.org/docs/) : Reading an writing Datafiles <br/>
+3. [Numpy](https://numpy.org/doc/stable/) : Manipulating data arrays<br/>
+4. [MPI for Python](https://mpi4py.readthedocs.io/en/stable/) : Parallelisation of tasks<br/>
+5. [PyArrow](https://arrow.apache.org/docs/python/) : Supporting software dealing with the Feather file system<br/>
 6. [tempfile](https://docs.python.org/3/library/tempfile.html) : Creating temporary file locations (built-in Python functionality)
 
-_To view plots in the Toturial Notebook_<br / >
+_To view plots in the Toturial Notebook_<br/>
 7. [MatPlotLib](https://matplotlib.org/stable/users/index.html)
 
 ## Functionality
 
-The functionality can be roughly subdivided into three parts: <br / >
+The functionality can be roughly subdivided into three parts:<br/>
 1. Creating files specifying the experiment: model generalities, model input parametres, model output parametres. 
 
 Subsequently, the following functionality can be initialised with a terminal command: 
-2. Breaking down the experiment specification allowing for [distribution over multiple threads](https://en.wikipedia.org/wiki/Parallel_computing) <br / >
-3. Per thread, the model is executed and results are saved temporarily <br / >
-4. For every thread, the results are collected and saved in one output file <br / >
+2. Breaking down the experiment specification allowing for [distribution over multiple threads](https://en.wikipedia.org/wiki/Parallel_computing)<br/>
+3. Per thread, the model is executed and results are saved temporarily<br/>
+4. For every thread, the results are collected and saved in one output file<br/>
 
 UML-inspired diagram of functions and access to files and/or external functionality: <br />
  
