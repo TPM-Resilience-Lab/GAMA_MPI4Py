@@ -8,7 +8,7 @@ Parallelisation of the scripts is achieved by using [MPI for Python](https://mpi
 ## Necessary packages
 The repository provides in an Anaconda environment save file (environment.yml). Importing this environment file will install the following packages: 
 
-_To view the Toturial and Benchmark Notebooks_ <br / >
+_To view the Toturial and Benchmark Notebooks_
 1. [Jupyter lab](https://jupyterlab.readthedocs.io/en/latest/)
 
 _For necessary functionality_<br / >
