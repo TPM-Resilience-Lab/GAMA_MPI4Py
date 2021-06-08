@@ -21,6 +21,9 @@ _For necessary functionality_<br/>
 _To view plots in the Toturial Notebook_<br/>
 7. [MatPlotLib](https://matplotlib.org/stable/users/index.html)
 
+## Importing Anaconda environment
+The necessary packages Open an Anaconda prompt t
+
 ## Functionality
 
 The functionality can be roughly subdivided into three parts:<br/>
